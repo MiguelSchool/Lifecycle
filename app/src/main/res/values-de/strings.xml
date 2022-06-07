@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="btn_nextActivity">zweite Aktivität</string>
+    <string name="btn_beforeActivity">erste Aktivität</string>
+</resources>
